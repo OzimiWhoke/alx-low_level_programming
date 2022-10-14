@@ -1,15 +1,10 @@
 #include <stdlib.h>
-
 #include <time.h>
+#include <stdio.h>
 
-/*
- * main - print random number, whether positive, negative or zero
- *
- * Return 0 (Success)
- *
- */
-
-/* main function */
+/* betty style doc for function main goes there */
+/* main - print random numbers whether positive, negative or zero */
+/* Return 0 (Success) */
 
 int main(void)
 {
