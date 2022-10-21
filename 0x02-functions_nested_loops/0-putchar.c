@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * main - Printing using Putchar
  *
@@ -18,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
