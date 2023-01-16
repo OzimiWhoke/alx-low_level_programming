@@ -1,4 +1,3 @@
-#include <studio>
 #include "lists.h"
 
 /**
