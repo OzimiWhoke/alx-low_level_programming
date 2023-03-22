@@ -5,3 +5,4 @@ Make keeps track of the last time files (normally object files) were updated and
 As a makefile is a list of shell commands, it must be written for the shell which will process the makefile. A makefile that works well in one shell may not execute properly in another shell.
 
 The makefile contains a list of rules. These rules tell the system what commands you want to be executed. Most times, these rules are commands to compile(or recompile) a series of files. The rules, which must begin in column 1, are in two parts. The first line is called a dependency line and the subsequent line(s) are called actions or commands. The action line(s) must be indented with a tab.
+![giphy-2](https://user-images.githubusercontent.com/113894292/227013255-2b24d203-2baf-4a31-8bb0-cd94deb6bd2e.gif)
