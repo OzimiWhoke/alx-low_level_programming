@@ -3,8 +3,9 @@
 /**
  * print_number - Prints any integer with putchar
  * @n: Number to prints
+ * _putchar - writes character c
+ * @c: char to be printed
  *
- * Return: Nothing
  */
 int _putchar(char c)
 {
